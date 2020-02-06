@@ -1,7 +1,7 @@
 ## Daily Leetcode - 1.Two Sum
 
 ### Information
-- Submit Time:
+- Submit Time: Feb 2
 - tag: `Array` `Easy``java`
 
 ### Description
