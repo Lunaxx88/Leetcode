@@ -1,6 +1,8 @@
 /*
 Notion:
 1.throw new IllegalArgumentException("No two sum solution")
+IllegalArgumentException： 非法参数异常
+
 2.twoSum is the name of array, so when we use the value in the array, 
 nums [i]
 
@@ -8,6 +10,11 @@ nums [i]
 why we use new?
 to create a new object to achieve the data?
 
+4.
+What's the difference between int[] twoSum and int[] nums.
+
+5. length of array:
+nums.length
 */
 
 class Solution {
